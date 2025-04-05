@@ -1,0 +1,21 @@
+AutoDeployPro/
+│
+├── app.py
+├── test_app.py
+├── requirements.txt
+├── Dockerfile
+├── Jenkinsfile
+│
+└── k8s/
+    ├── deployment.yaml
+    ├── service.yaml
+    ├── hpa.yaml
+    │
+    ├── prometheus/
+    │   ├── prometheus-config.yaml
+    │   ├── prometheus-deployment.yaml
+    │   └── prometheus-service.yaml
+    │
+    └── grafana/
+        ├── grafana-deployment.yaml
+        └── grafana-service.yaml
