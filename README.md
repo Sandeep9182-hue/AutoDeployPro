@@ -24,6 +24,8 @@ AutoDeployPro is a complete real-time CI/CD pipeline project built with Jenkins,
 
 ---
 
+📌 Direct File Link:
+Click to view/download System Architecture
 
 ---
 
