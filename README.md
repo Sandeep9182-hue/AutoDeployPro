@@ -8,9 +8,6 @@ AutoDeployPro is a complete real-time CI/CD pipeline project built with Jenkins,
 
 - **Name**: Madela Saisandeep  
 - **Email**: maddelasaisandeep950@gmail.com  
-- **LinkedIn**: [linkedin.com/in/maddela-saisandeep-611296290](https://www.linkedin.com/in/maddela-saisandeep-611296290/)  
-- **GitHub**: [github.com/maddelasaisandeep](https://github.com/maddelasaisandeep)  
-- **HackerRank**: [hackerrank.com/maddelasaisandeep](https://www.hackerrank.com/maddelasaisandeep)
 
 ---
 
@@ -27,9 +24,6 @@ AutoDeployPro is a complete real-time CI/CD pipeline project built with Jenkins,
 
 ---
 
-## 🧠 Architecture
-
-![System Architecture](./A_flowchart_diagram_in_digital_vector_graphic_form.png)
 
 ---
 
